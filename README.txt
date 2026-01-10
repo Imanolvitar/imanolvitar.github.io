@@ -1,31 +1,21 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Imanol Vitar Ortega - Portfolio Profesional
 
+Bienvenido a mi repositorio personal. Este proyecto contiene mi sitio web profesional desplegado a través de **GitHub Pages**, donde presento mi trayectoria técnica, certificaciones y enfoque en la gestión de instalaciones.
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+## 👷‍♂️ Perfil Profesional
+Soy **Jefe de Mantenimiento y Servicios Generales** con más de 20 años de experiencia técnica. Mi enfoque actual se centra en la **digitalización operativa** (GMAO e IA) para optimizar la eficiencia y seguridad en infraestructuras complejas.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🚀 Tecnologías y Herramientas
+En este espacio no solo comparto mi experiencia en el mantenimiento físico, sino también mi base técnica en IT:
+* **Mantenimiento Digital:** Implementación de sistemas GMAO y análisis de datos.
+* **Desarrollo Web:** Web estática construida con HTML5, CSS3 y JavaScript (Basada en la plantilla "Editorial" de HTML5 UP).
+* **Despliegue:** Gestión de versiones con Git y hosting en GitHub Pages.
 
-(* = not included)
+## 📍 Contacto
+Si deseas conocer más sobre mi trayectoria o colaborar en proyectos de Facility Management y optimización técnica:
 
-AJ
-aj@lkn.io | @ajlkn
+* **Sitio Web:** [imanolvitar.github.io](https://imanolvitar.github.io/)
+* **LinkedIn:** [linkedin.com/in/imanol-vitar-ortega](https://www.linkedin.com/in/imanol-vitar-ortega-36059259)
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+*Desplegado con el rigor técnico que requiere la gestión de activos y la tecnología.*
