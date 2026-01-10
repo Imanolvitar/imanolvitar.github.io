@@ -5,6 +5,13 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+			/* Ajustes para web estática sin menú lateral */
+			#wrapper { padding-left: 0 !important; }
+			#main > .inner { max-width: 1200px; margin: 0 auto; }
+			.toggle { display: none !important; }
+			#header .icons li a.icon.brands.fa-telegram-plane:before { content: "\f3fe"; }
+		</style>
 	</head>
 	<body class="is-preload">
 
@@ -16,8 +23,9 @@
 							<header id="header">
 									<a href="index.html" class="logo"><strong>Imanol Vitar Ortega</strong> | Perfil Profesional</a>
 									<ul class="icons">
-										<li><a href="https://www.linkedin.com/in/imanol-vitar-ortega-36059259" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 										<li><a href="mailto:imanolvitar@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+										<li><a href="https://t.me/tu_usuario" class="icon brands fa-telegram-plane"><span class="label">Telegram</span></a></li>
+										<li><a href="https://www.linkedin.com/in/imanol-vitar-ortega-36059259" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 									</ul>
 								</header>
 
@@ -80,7 +88,7 @@
 									</header>
 									<div class="posts">
 										<article>
-											<h3>Jefe de Mantenimiento y Servicios</h3>
+											<h3>Jefatura de Mantenimiento y Servicios</h3>
 											<p><strong>Señorío de Zuasti Golf Club</strong>. Dirección de equipos, gestión de proveedores, supervisión de contratas y reformas técnicas de gran escala.</p>
 										</article>
 										<article>
@@ -94,61 +102,37 @@
 									</div>
 								</section>
 
-						</div>
-					</div>
-
-				<div id="sidebar">
-						<div class="inner">
-
-							<nav id="menu">
-									<header class="major">
-										<h2>Menú</h2>
-									</header>
-									<ul>
-										<li><a href="index.html">Inicio</a></li>
-										<li><a href="https://www.linkedin.com/in/imanol-vitar-ortega-36059259">Perfil en LinkedIn</a></li>
-									</ul>
-								</nav>
-
 							<section>
 									<header class="major">
-										<h2>Acreditaciones</h2>
+										<h2>Acreditaciones y Certificaciones</h2>
 									</header>
-									<p>Acreditaciones oficiales vigentes en Navarra:</p>
-									<ul class="alt">
-										<li>(SEA757_2) Mantenimiento de piscinas y otras instalaciones acuáticas</li>
-										<li>(SEA492_2)Mantenimiento higiénico-sanitario de instalaciones susceptibles de
-proliferación de microorganismos nocivos y su diseminación por
-aerosolización</li>
-										<li>PRL 60H, Alturas, Espacios Confinados, riesgos electricos</li>
-										<li>Carnet basico de productos Fitosanitarios</li>
-										<li>DESA </li>
-									</ul>
+									<div class="row">
+										<div class="col-6 col-12-small">
+											<ul class="alt">
+												<li>Certificado Mantenimiento Piscinas (SEA757_2)</li>
+												<li>Control de Legionella PPCL - PSL (SEA492_2)</li>
+												<li>PRL 60h + Altura / Electricidad / Espacios Confinados</li>
+											</ul>
+										</div>
+										<div class="col-6 col-12-small">
+											<ul class="alt">
+												<li>Carné profesional de productos fitosanitarios</li>
+												<li>Capacitación para uso de DESA</li>
+												<li>Gestión de Instalaciones Deportivas (45h)</li>
+											</ul>
+										</div>
+									</div>
 								</section>
 
-							<section>
-									<header class="major">
-										<h2>Contacto Directo</h2>
-									</header>
-									<ul class="contact">
-										<li class="icon solid fa-envelope">imanolvitar@gmail.com</li>
-										<li class="icon brands fa-telegram-plane">
-        <a href="@Imanolvitar">Telegram</a>
-    </li>
-    
-    <li class="icon brands fa-linkedin">
-        <a href="https://www.linkedin.com/in/imanol-vitar-ortega-36059259">LinkedIn</a>
-    </li>
-									</ul>
-								</section>
-
-							<footer id="footer">
-									<p class="copyright">&copy; Imanol Vitar Ortega. Diseño base: <a href="https://html5up.net">HTML5 UP</a>.</p>
+							<footer id="footer" style="padding: 2em 0; text-align: center; border-top: solid 1px #efefef;">
+									<p class="contact" style="margin-bottom: 1em;">
+										 imanolvitar@gmail.com
+									</p>
+									<p class="copyright">&copy; Imanol Vitar Ortega. Diseño basado en <a href="https://html5up.net">HTML5 UP</a>.</p>
 								</footer>
 
 						</div>
 					</div>
-
 			</div>
 
 		<script src="assets/js/jquery.min.js"></script>
@@ -159,4 +143,3 @@ aerosolización</li>
 
 	</body>
 </html>
-
