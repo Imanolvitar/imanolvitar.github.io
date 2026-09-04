@@ -8,14 +8,13 @@ Soy **Jefe de Mantenimiento y Servicios Generales** con más de 20 años de expe
 ## 🚀 Tecnologías y Herramientas
 En este espacio no solo comparto mi experiencia en el mantenimiento físico, sino también mi base técnica en IT:
 * **Mantenimiento Digital:** Implementación de sistemas GMAO y análisis de datos.
-* **Desarrollo Web:** Web estática construida con HTML5, CSS3 y JavaScript (Basada en la plantilla "Editorial" de HTML5 UP).
+* **Desarrollo Web:** Web estática interactiva en formato terminal (HTML5, CSS3, JavaScript).
 * **Despliegue:** Gestión de versiones con Git y hosting en GitHub Pages.
 
 ## 📍 Contacto
 Si deseas conocer más sobre mi trayectoria o colaborar en proyectos de Facility Management y optimización técnica:
-
 * **Sitio Web:** [imanolvitar.github.io](https://imanolvitar.github.io/)
-* **LinkedIn:** [linkedin.com/in/imanol-vitar-ortega](https://www.linkedin.com/in/imanol-vitar-ortega-36059259)
+* **LinkedIn:** [imanol-vitar-ortega](https://www.linkedin.com/in/imanol-vitar-ortega-36059259)
 
 ---
 *Desplegado con el rigor técnico que requiere la gestión de activos y la tecnología.*
